@@ -1,0 +1,1 @@
+D:\Bochs-2.6.pre1\bochs.exe -q -f "D:\OS Proj\DanpheOS\bochsrc.bxrc"
